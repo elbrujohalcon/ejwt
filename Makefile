@@ -2,8 +2,8 @@ PROJECT = ejwt
 
 DEPS = jiffy base64url ej
 
-dep_jiffy       = git https://github.com/davisp/jiffy.git      d16a4fd968e000b65e4678cccfad68d7a0a8bd1c
-dep_base64url   = git https://github.com/inaka/base64url.git   bab9f431693a8888528d5c2db933c6f222c6fd44
+dep_jiffy       = git https://github.com/davisp/jiffy.git      0.14.3
+dep_base64url   = git https://github.com/inaka/base64url.git   dbe43555a40b621316bbb53d0bf242c246d9e0b4
 dep_ej          = git https://github.com/seth/ej.git           0332523799fdbab4b7c8e87074dcf57bb15005a6
 
 
